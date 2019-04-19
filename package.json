@@ -63,6 +63,7 @@
     "hark": "1.1.3",
     "inherits": "^2.0.1",
     "merge": "^1.2.0",
+    "multistreamsmixer": "^1.0.8",
     "sdp-translator": "^0.1.15",
     "ua-parser-js": "^0.7.7",
     "uuid": "~2.0.1"
